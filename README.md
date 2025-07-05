@@ -12,15 +12,6 @@ This project is a responsive and animated navigation bar built with HTML, CSS, a
 - Optional search bar integration
 - Sticky navigation on scroll (optional)
 
-## Project Structure
-SPCL Infotech/
-│
-├── navbar.html # Main HTML structure
-├── navbar.css # Styling and animations
-├── navbar.js # JavaScript functionality
-└── .git/ # Git version control (commits & config)
-
-
 ## 🛠️ Technologies Used
 
 - **HTML5** – Markup and structure
